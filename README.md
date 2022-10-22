@@ -7,3 +7,5 @@ Written for Exam 1 Part B for Operating Systems COMP3400
 To exit, simply type `quit`.
 
 ![image](https://user-images.githubusercontent.com/18680869/197310861-7ca39d7a-6608-401f-81e4-47820b89a03c.png)
+![image](https://user-images.githubusercontent.com/18680869/197315999-44a0921b-811c-47bd-b3b4-930389994f96.png)
+
